@@ -1,0 +1,152 @@
+/* Hero font-family: 'Roboto', sans-serif;  */
+ /* Heading font-family: 'Inter', sans-serif;  */
+/* Body font-family: 'Mulish', sans-serif;  */
+h6{
+    color:#168EDE;
+    font-size: 28px;
+    font-family: 'Inter', sans-serif; 
+    font-style: bold;
+}
+p{
+    color:black;
+    font-family: 'Mulish', sans-serif; 
+}
+#logo{
+    width: 150px;
+    height: 120px;
+    padding-left: 30px;
+}
+/* Navbar */
+.navbar{
+    padding-top: 20px;;
+    padding-left: 20px;
+    padding-right: 50px;
+    font-family: 'Mulish', sans-serif; 
+}
+.nav-link{
+color: black!important;
+font-size: 19px;
+margin: 8px;
+border: none;
+    outline: none;
+}
+
+ .nav-link:hover{
+    color: #168EDE !important;
+    text-decoration: none;
+   }
+
+   .dropdown-item:hover{
+    color: #168EDE;
+    background-color: white;
+    
+   }
+
+   .dropdown-item{
+    font-family: 'Mulish', sans-serif; 
+
+   }
+   
+
+   #navbarDropdown{
+    border: 0px;
+   }
+
+   .dropdown-menu{
+    border: 0px;
+   }
+
+   .dropdown-divider{
+    border: 0.5px solid black ;
+   }
+
+   .navbar-toggler{
+    background-color:#168EDE;
+   
+   }
+
+
+  .a:hover{
+    color: #168EDE !important;
+    text-decoration: none;
+   }
+
+   #donateVolunteer{
+    color:#168EDE !important;
+   }
+
+   /* NavBar Ends */
+
+   hr{
+    border: 1px solid #168EDE ;
+   }
+
+    .socialsImg{
+        height:50px;
+        width: 50px;
+        margin-bottom: 40px;
+        margin:10px;
+
+    }
+
+    /* Carousel */
+
+   
+    .carousel-indicators > li{
+        border-radius: 50%;
+        width:15px;
+        height: 15px;
+   background-color: #059E56;
+   margin-bottom: -20px ;
+   margin-right: 10px;
+
+    }
+
+    .carousel-item img{
+        max-height:400px;
+        width:1200px;
+        margin-left: 1px;
+        margin-top: 30px;
+        margin-bottom: 30px;
+        background-color: #059E56;
+    
+    }
+
+    .containerR{
+        border-top: 10px solid #059E56 !important;
+        border-left: 2px solid #059E56 !important;
+        border-right: 2px solid #059E56 !important;
+        border-bottom: 2px solid #059E56 !important;
+        box-shadow: 5px 5px 5px 5px #00000070;
+        margin-top: 100px;
+        margin-bottom: 100px;
+        
+    }
+
+    #copyright{
+        text-align: center;
+        margin-top: 50px;
+        margin-bottom: 50px;
+     }
+
+     .solidlineNav{
+        border-top: 3px solid #168EDE;
+         margin-bottom: 50px;
+         /* width: 1200px; */
+         align-items: center;
+      }
+      .solidlineFooter{
+        border-top: 3px solid #168EDE;
+         margin-bottom: 50px;
+         /* width: 1200px; */
+         align-items: center;
+      }
+    
+    footer { 
+        display: block;
+      }
+
+  
+
+   
+   
