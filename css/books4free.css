@@ -14,6 +14,7 @@ p{
 
 #strongText{
     margin-top: 50px;
+    margin-bottom: 20px;
 }
 #logo{
     width: 150px;
@@ -125,6 +126,8 @@ border: none;
   .bigImg h1 {
     color:white;
   }
+ 
+
 
   #bigTitleBooks{
     text-align: center;
@@ -142,13 +145,6 @@ border: none;
   padding: 10px;
   max-width: 800px;
  
-
-}
-.video{
-    margin:60px;
-    padding-top:10px;
-    display: block;
-
 
 }
 .bronzeville{
