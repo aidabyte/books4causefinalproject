@@ -51,8 +51,7 @@
     background-position: center;
     background-size:cover;
     box-shadow: 10px 10px 10px 10px #00000070;
-    margin-bottom: 150px;
-    margin-top: 50px;
+    margin-bottom: 50px;
   }
   .bigImg h1 {
     color:white;
@@ -91,10 +90,15 @@
     margin-bottom: 50px;
  }
 
- #bigTitle{
+ #bigTitleNews{
     text-align: center;
-    margin-top: 230px;
-    font-size: 60px;
+    font-size: 80px;
+    font-family: 'Roboto', sans-serif;
+    text-shadow: 1px 1px black;
+    padding-left: 60px;
+    color: white;
+    padding-top:200px;
+    margin: auto;
  }
 
  .socialsImg:hover{

@@ -1,0 +1,197 @@
+/* Hero font-family: 'Roboto', sans-serif;  */
+ /* Heading font-family: 'Inter', sans-serif;  */
+/* Body font-family: 'Mulish', sans-serif;  */
+h6{
+    color:#168EDE;
+    font-size: 28px;
+    font-family: 'Inter', sans-serif; 
+    font-style: bold !important;
+}
+p{
+    color:black;
+    font-family: 'Mulish', sans-serif; 
+}
+
+#strongText{
+    margin-top: 50px;
+}
+#logo{
+    width: 150px;
+    height: 120px;
+    padding-left: 30px;
+}
+/* Navbar */
+.navbar{
+    padding-top: 20px;;
+    padding-left: 20px;
+    padding-right: 50px;
+    font-family: 'Mulish', sans-serif; 
+}
+.nav-link{
+color: black!important;
+font-size: 19px;
+margin: 8px;
+border: none;
+    outline: none;
+}
+
+ .nav-link:hover{
+    color: #168EDE !important;
+    text-decoration: none;
+   }
+
+   .dropdown-item:hover{
+    color: #168EDE;
+    background-color: white;
+    
+   }
+
+   .dropdown-item{
+    font-family: 'Mulish', sans-serif; 
+
+   }
+   
+
+   #navbarDropdown{
+    border: 0px;
+   }
+
+   .dropdown-menu{
+    border: 0px;
+   }
+
+   .dropdown-divider{
+    border: 0.5px solid black ;
+   }
+
+   .navbar-toggler{
+    background-color:#168EDE;
+   
+   }
+
+
+  .a:hover{
+    color: #168EDE !important;
+    text-decoration: none;
+   }
+
+   #donateVolunteer{
+    color:#168EDE !important;
+   }
+
+   /* NavBar Ends */
+  
+
+   .solidlineNew{
+    border-top: 2px solid #168EDE; 
+    margin-top: 120px;
+    margin-bottom: 50px;
+   }
+
+   .solidlineNewer{
+    border-top: 2px solid black; 
+    margin-top: 120px;
+    margin-bottom: 50px;
+    max-width: 5000px;
+   }
+    .socialsImg{
+        height:50px;
+        width: 50px;
+        margin-bottom: 40px;
+        margin:10px;
+
+    }
+    .socialContainer{
+        margin-left: 170px;
+
+    }
+    
+
+    /* footer { 
+        display: block;
+      } */
+
+/* Lari Code Starts Here */
+.bigImg {
+    width: 100%;
+    height:500px;
+    background: url("../images/4Free.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover;
+    box-shadow: 10px 10px 10px 10px #00000070;
+    margin-bottom: 0px;
+  }
+  .bigImg h1 {
+    color:white;
+  }
+
+  #bigTitleBooks{
+    text-align: center;
+    font-size: 80px;
+    font-family: 'Roboto', sans-serif;
+    text-shadow: 1px 1px black;
+    padding-left: 30px;
+    color: white;
+    padding-top:180px;
+  }
+.avondale{
+    text-align:left;
+    margin: auto;
+  width: 80%;
+  padding: 10px;
+  max-width: 800px;
+ 
+
+}
+.video{
+    margin:60px;
+    padding-top:10px;
+    display: block;
+
+
+}
+.bronzeville{
+    text-align:left;
+    margin: auto;
+  width: 50%;
+  padding: 10px;
+}
+
+
+.lincolnPark{
+    text-align:left;
+    margin: auto;
+  width: 50%;
+  padding: 10px;
+}
+.donatingBooks{
+    text-align:left;
+    margin: auto;
+  width: 50%;
+  padding: 10px;
+  margin-bottom: 70px;
+}
+
+h3{
+    padding-top:15px;
+    padding-bottom:30px;
+}
+h4{
+    color:#168EDE;
+    padding-top:10px;
+}
+h5{
+    padding-bottom:15px;
+    display: inline;
+}
+
+.containerMain{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+
+
+
+
