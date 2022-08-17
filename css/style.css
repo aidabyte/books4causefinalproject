@@ -292,8 +292,8 @@ h3{
 button{
     background-color:#059E56;
     border-radius:50px;
-    border-color: white;
-    box-shadow: 2px 2px 2px 2px #00000070;
+    border: none;
+    box-shadow: 5px 5px 5px 5px #00000070;
     color:white;
     width: 220px;
     height:35px;
