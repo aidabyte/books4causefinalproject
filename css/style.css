@@ -1,6 +1,20 @@
 /* Hero font-family: 'Roboto', sans-serif;  */
  /* Heading font-family: 'Inter', sans-serif;  */
 /* Body font-family: 'Mulish', sans-serif;  */
+.twitterbox{
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.twitter{
+    background-color: #FFFF00;
+    width: 100px;
+    height: 100px;
+}
+
+
 
 .jumbotron{
     background-color: white;
@@ -382,13 +396,13 @@ button{
 
 /* Our Partners Cards Ends */
 /* Twitter Feed Starts*/
-.mx-auto{
-    /* text-align:center; */
+/* .mx-auto{
+   
     display: block !important;
     margin-right: auto !important;
  margin-left: auto !important;
 
-}
+} */
 /* Twitter Feed Ends*/
 
 hr{
