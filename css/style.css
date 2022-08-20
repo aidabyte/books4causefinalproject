@@ -382,11 +382,11 @@ button{
 
 /* Our Partners Cards Ends */
 /* Twitter Feed Starts*/
-.container{
+.mx-auto{
     /* text-align:center; */
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+    margin-right: auto !important;
+ margin-left: auto !important;
+ 
 }
 /* Twitter Feed Ends*/
 
