@@ -3,7 +3,9 @@
 /* Body font-family: 'Mulish', sans-serif;  */
 
 .containerRr{
-    margin: auto
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 
 }
 .jumbotron{
