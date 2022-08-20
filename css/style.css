@@ -2,12 +2,6 @@
  /* Heading font-family: 'Inter', sans-serif;  */
 /* Body font-family: 'Mulish', sans-serif;  */
 
-.containerRr{
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-
-}
 .jumbotron{
     background-color: white;
   
@@ -389,7 +383,10 @@ button{
 /* Our Partners Cards Ends */
 /* Twitter Feed Starts*/
 .twitterfeed{
-    text-align:center;
+    /* text-align:center; */
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 /* Twitter Feed Ends*/
 
