@@ -1,6 +1,11 @@
 /* Hero font-family: 'Roboto', sans-serif;  */
  /* Heading font-family: 'Inter', sans-serif;  */
 /* Body font-family: 'Mulish', sans-serif;  */
+
+.containerRr{
+    align-items: center;
+
+}
 .jumbotron{
     background-color: white;
   
